@@ -1,56 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=ctdoteam1110&fontSize=46&fontColor=f8fafc&fontAlignY=38&desc=Building%20fast%2C%20reliable%20software%20together&descSize=16&descAlignY=62&descColor=94a3b8" width="100%" />
+<a href="https://github.com/ctdoteam1110">
+  <img src="https://raw.githubusercontent.com/ctdoteam1110/.github/main/profile/assets/hero.svg" alt="ctdoteam1110 Banner" width="100%" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/ctdoteam1110">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Building+fast%2C+reliable+tools+with+Rust;Core+Team%3A+%40thanhdo1110+%26+%40TIPC1110;Open+Source+%C2%B7+Clean+Code+%C2%B7+Automated+CI" alt="Typing SVG" />
+</a>
 
 <p>
-  <a href="https://github.com/ctdoteam1110"><img src="https://img.shields.io/badge/GitHub-ctdoteam1110-181717?style=for-the-badge&logo=github" alt="GitHub Org" /></a>
-  <a href="https://github.com/orgs/ctdoteam1110/people"><img src="https://img.shields.io/badge/Core%20Team-2%20Members-2563eb?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Core Team" /></a>
-  <a href="https://github.com/ctdoteam1110/ctdozlite"><img src="https://img.shields.io/github/stars/ctdoteam1110/ctdozlite?style=for-the-badge&logo=rust&color=ea580c" alt="ctdozlite Stars" /></a>
+  <a href="https://github.com/ctdoteam1110"><img src="https://img.shields.io/badge/ORG-ctdoteam1110-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub Org" /></a>
+  <a href="https://github.com/orgs/ctdoteam1110/people"><img src="https://img.shields.io/badge/TEAM-2%20Core%20Members-0F172A?style=for-the-badge&logo=githubsponsors&logoColor=38BDF8" alt="Core Team" /></a>
+  <a href="https://github.com/ctdoteam1110/ctdozlite"><img src="https://img.shields.io/github/stars/ctdoteam1110/ctdozlite?style=for-the-badge&logo=rust&color=0F172A&labelColor=1E293B&logoColor=F97316" alt="ctdozlite Stars" /></a>
 </p>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ctdoteam1110/.github/main/profile/assets/divider.svg" width="100%" />
 
 ## Core Members
 
 <div align="center">
 
-| <a href="https://github.com/thanhdo1110"><img src="https://github.com/thanhdo1110.png?size=120" width="110" style="border-radius: 50%;" alt="thanhdo1110" /></a> | <a href="https://github.com/TIPC1110"><img src="https://github.com/TIPC1110.png?size=120" width="110" style="border-radius: 50%;" alt="TIPC1110" /></a> |
+| <a href="https://github.com/thanhdo1110"><img src="https://github.com/thanhdo1110.png?size=140" width="112" alt="thanhdo1110" /></a> | <a href="https://github.com/TIPC1110"><img src="https://github.com/TIPC1110.png?size=140" width="112" alt="TIPC1110" /></a> |
 | :---: | :---: |
 | **Đỗ Thành** | **ctdo** |
-| [@thanhdo1110](https://github.com/thanhdo1110) | [@TIPC1110](https://github.com/TIPC1110) |
 | `Core Member` | `Core Member` |
-| [bio.ctdotech.tech/dothanh1110](https://bio.ctdotech.tech/dothanh1110) | [github.com/TIPC1110](https://github.com/TIPC1110) |
+| <a href="https://github.com/thanhdo1110"><img src="https://img.shields.io/badge/%40thanhdo1110-0F172A?style=flat-square&logo=github&logoColor=22C55E" /></a> <a href="https://bio.ctdotech.tech/dothanh1110"><img src="https://img.shields.io/badge/Bio-Profile-1E293B?style=flat-square&logo=linktree&logoColor=38BDF8" /></a> | <a href="https://github.com/TIPC1110"><img src="https://img.shields.io/badge/%40TIPC1110-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></a> |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ctdoteam1110/.github/main/profile/assets/divider.svg" width="100%" />
 
 ## Featured Project
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ctdoteam1110/ctdozlite"><strong>ctdozlite</strong></a><br />
-      <sub>Primary Language: <code>Rust</code> · License: <code>Apache-2.0</code></sub><br /><br />
-      <a href="https://github.com/ctdoteam1110/ctdozlite/stargazers"><img src="https://img.shields.io/github/stars/ctdoteam1110/ctdozlite?style=flat-square&color=f59e0b" alt="Stars" /></a>
-      <a href="https://github.com/ctdoteam1110/ctdozlite/network/members"><img src="https://img.shields.io/github/forks/ctdoteam1110/ctdozlite?style=flat-square&color=3b82f6" alt="Forks" /></a>
-      <a href="https://github.com/ctdoteam1110/ctdozlite/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ctdoteam1110/ctdozlite?style=flat-square&color=10b981" alt="License" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+| Repository | Stack & License | Metrics |
+| :--- | :--- | :--- |
+| <a href="https://github.com/ctdoteam1110/ctdozlite"><strong>ctdozlite</strong></a><br /><sub>Flagship open-source repository by ctdoteam1110</sub> | ![Rust](https://img.shields.io/badge/Rust-0F172A?style=flat-square&logo=rust&logoColor=F97316) ![Apache-2.0](https://img.shields.io/github/license/ctdoteam1110/ctdozlite?style=flat-square&color=10B981&labelColor=0F172A) | [![Stars](https://img.shields.io/github/stars/ctdoteam1110/ctdozlite?style=flat-square&color=F59E0B&labelColor=0F172A)](https://github.com/ctdoteam1110/ctdozlite/stargazers) [![Forks](https://img.shields.io/github/forks/ctdoteam1110/ctdozlite?style=flat-square&color=38BDF8&labelColor=0F172A)](https://github.com/ctdoteam1110/ctdozlite/network/members) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/ctdoteam1110/.github/main/profile/assets/divider.svg" width="100%" />
 
 ## Engineering & Workflow
 
-| Area | Practice |
-| :--- | :--- |
-| **Access & Permissions** | Managed via [Organization People & Privileges](https://github.com/orgs/ctdoteam1110/people) |
-| **Code Review** | Pull Requests & Branch Protection on `main` |
-| **Automation & CI/CD** | GitHub Actions for continuous validation & automatic issue triage |
+| Domain | Standard | Link |
+| :--- | :--- | :--- |
+| **Permissions** | Role-based access & member governance | [People & Privileges](https://github.com/orgs/ctdoteam1110/people) |
+| **Code Quality** | Pull Requests + Branch Protection on `main` | [Repository Settings](https://github.com/ctdoteam1110/.github/settings/branches) |
+| **Automation** | Continuous Integration & Auto-assign Issues | [GitHub Actions](https://github.com/ctdoteam1110/.github/actions) |
+
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=90&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/ctdoteam1110/.github/main/profile/assets/footer.svg" width="100%" />
 </div>
